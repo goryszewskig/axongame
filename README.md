@@ -7,7 +7,7 @@ We analyse data from a very large (n = 854064) sample of players of an online ga
 
 http://www.tomstafford.staff.shef.ac.uk/
 
-http://mikedewar.org/
+https://github.com/mikedewar
 
 FILE FUNCTIONS
 
