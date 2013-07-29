@@ -12,6 +12,7 @@ https://github.com/mikedewar
 FILE FUNCTIONS
 
 make_fig2.py - attempt no vs av score analysis (figure 2) and attempt vs n (not published)
+
 make_fig3.py - score vs attempt number for percentile groups based on maximum score (figure 3)
 
 analysis_no2.py - score percentile vs attempts analysis (not published)
@@ -22,6 +23,6 @@ make_fig4.py - players by maximum score vs delay between 1st and 10th play (fig 
 
 make_fig5.py - goers vs resters (including t-test and effect size calc)
 
-make_fig6.pu - exploration vs exploitation result
+make_fig6.py - exploration vs exploitation result
 - fig6_observed.py
 - fig6_boot.py
